@@ -5,3 +5,6 @@
 ##### This is `<h5>` header
 ###### This is `<h6>` header it is the smallest
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hey! Welcome to Github!";
+```

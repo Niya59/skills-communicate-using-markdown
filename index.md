@@ -8,3 +8,6 @@
 ``` javascript
 var myVar = "Hey! Welcome to Github!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
